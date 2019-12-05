@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - cmd-prompt
 -andreww
 - [Yunki](https://github.com/yunkii)
@@ -67,6 +67,7 @@
 - [Tiziano B](https://github.com/tiziano-b)
 - [Richard Tinajero] (https://github.com/rj-tinajero)
 - [Hunter Wang](https://github.com/fishfly)
+- [Hitesh Pant](panthitesh6410)
 - [David Rubio](https://github.com/DavidRubio24)
 - [Sean Keane](https://github.com/seankeane)
 - [Sehyeong Lee](https://github.com/lsh23)
