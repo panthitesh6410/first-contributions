@@ -152,6 +152,7 @@
 - [jkobie] (https://github.com/jkobie)
 - [jkobie1] (https://github.com/jkobie)
 - [Andrew Dunkel] (https://github.com/andrewdunkel)
+- [Andy Camann] (https://github.com/acamann)
 - [AdeptSlice](https://github.com/AdeptSlice)
 - [VijayaPrakashGullapalli](https://github.com/VijayaPrakashGullapalli)
 - [Bilal Suleman]
@@ -19069,3 +19070,4 @@ rehan
 - [Dodeca b](https://github.com/polygonart6777)
 - [Ryan Riley Puzon](https://github.com/rpuzon01)
 - [JuSeong Kim](https://github.com/Sigmaflo2)
+- [Aubrey Fletcher](https://github.com/aubreyfletcher6682)
